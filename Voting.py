@@ -1,7 +1,7 @@
 import sqlite3
 import getpass
 
-from CheckCertificate import CertificateHandler
+from Security.CheckCertificate import CertificateHandler
 
 class Vote:
     def __init__(self, db_name):
