@@ -27,4 +27,25 @@ As a long-term project, DemoVoting has several future development plans to impro
 - Creating a robust and user-friendly frontend for the voting application, with additional features such as accessibility options and multi-language support.
 - Further optimizing the database to improve performance and scalability, and implementing additional security measures to protect against data breaches and other threats.
 
+It could have the next extructure:
+
+```
+
+voting-system/
+  frontend/
+    src/
+      components/
+        VoteForm.js
+        Results.js
+      App.js
+      index.js
+  backend/
+    api/
+      app.py
+      database.py
+    Security/
+      CheckCertificate.py
+
+```
+
 DemoVoting is a comprehensive project, and we are committed to providing a secure, efficient, and user-friendly platform for electronic voting. We welcome contributions and feedback from the community to help us achieve these goals.
