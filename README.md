@@ -30,7 +30,6 @@ As a long-term project, DemoVoting has several future development plans to impro
 It could have the next extructure:
 
 ```
-
 voting-system/
   frontend/
     src/
@@ -45,7 +44,6 @@ voting-system/
       database.py
     Security/
       CheckCertificate.py
-
 ```
 
 DemoVoting is a comprehensive project, and we are committed to providing a secure, efficient, and user-friendly platform for electronic voting. We welcome contributions and feedback from the community to help us achieve these goals.
