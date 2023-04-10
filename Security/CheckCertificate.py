@@ -183,7 +183,7 @@ class CertificateHandler:
 import getpass
 
 try:
-    p12_path = '/Users/juanjosefernandezmorales/Documents/FERNANDEZ_MORALES_JUAN_JOSE___45343816Y.p12'
+    p12_path = 'p12_path'
     p12_password  = getpass.getpass("Enter your password: ").encode('utf-8')
     
     cert_handler = CertificateHandler(p12_path, p12_password)
